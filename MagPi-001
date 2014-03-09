@@ -1,0 +1,55 @@
+# PUTTING TEXT ONTO THE SCREEN
+# By Jaseman - 23rd April 2012
+
+print ("*** Welcome to The Python Pit! ***")
+print() # A line space
+print("Brought to you by The MagPi")
+
+# ARITHMETIC
+# By Jaseman - 23rd April 2012
+
+print("Two plus two equals ",2+2); print()
+print("Eight minus three equals ",8-3); print()
+print("Four times two equals ",4*2); print()
+print("Ten divided by two equals ",10/2); print()
+
+# SPARE ME THE DETAILS
+# By Jaseman - 24th April 2012
+
+print("Seven divide by three is",7/3); print()
+print("Seven divided by three is roughly",int(7/3)); print()
+print("Five divided by two is",5/2); print()
+print("Five divided by two is roughly",int(5/2)); print()
+
+# ALGEBRA
+# By Jaseman - 24th April 2012
+
+a = 3
+b = 7
+c = 4
+
+print("A is equal to",a); print()
+print("B is equal to",b); print()
+print("C is equal to",c); print()
+
+print("A plus B equals",a+b); print()
+print("A plus B plus C equals",a+b+c); print()
+print("A plus B minus C equals",a+b-c); print()
+
+# STRING OF WORDS
+# By Jaseman - 24th April 2012
+
+a = "If you"
+b = "notice"
+c = "this"
+d = "you will"
+e = "is not worth"
+f = "noticing!"
+
+print(a,b,c,b,d,b,c,b,e,f); print()
+
+# COUNTING WITH FOR LOOPS
+# BY Jaseman - 24th April 2012
+
+for n in range(0,10+1):
+    print(n)
